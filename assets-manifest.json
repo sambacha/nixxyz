@@ -1,0 +1,19 @@
+{
+  "404.html": "/nix-package-search/404.html",
+  "favicon.png": "/nix-package-search/favicon.png",
+  "index.html": "/nix-package-search/index.html",
+  "logo192.png": "/nix-package-search/logo192.png",
+  "main.css": "/nix-package-search/static/css/app.min.css",
+  "main.js": "/nix-package-search/static/js/main.bundle.js",
+  "manifest.json": "/nix-package-search/manifest.json",
+  "nix/nixpkgs-unstable/all_packages.csv": "/nix-package-search/nix/nixpkgs-unstable/all_packages.csv",
+  "nix/nixpkgs-unstable/all_packages.sqlite3": "/nix-package-search/nix/nixpkgs-unstable/all_packages.sqlite3",
+  "nix/nixpkgs-unstable/last_seen.txt": "/nix-package-search/nix/nixpkgs-unstable/last_seen.txt",
+  "robots.txt": "/nix-package-search/robots.txt",
+  "sql-wasm.wasm": "/nix-package-search/c74ad46623e4ee643959.wasm",
+  "sqlite.worker.js": "/nix-package-search/459c095cf66542b69f19.js",
+  "static/fonts/.gitkeep": "/nix-package-search/static/fonts/.gitkeep",
+  "static/images/.gitkeep": "/nix-package-search/static/images/.gitkeep",
+  "static/js/.gitkeep": "/nix-package-search/static/js/.gitkeep",
+  "static/js/729.bundle.js": "/nix-package-search/static/js/729.bundle.js"
+}
