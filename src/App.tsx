@@ -4,7 +4,7 @@ import Grid from '@material-ui/core/Grid'
 
 import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 
-import { Home } from './components/Home'
+//import { Home } from './components/Home'
 import { Search } from './components/Search'
 import { TopNav } from './components/TopNav'
 
@@ -13,16 +13,19 @@ function NoMatch() {
   return <></>
 }
 
-function App() {
+/**            
+ <Route exact path="/">
+  <Home />
+    </Route>
+*/
+
+   function App() {
   return (
     <Router>
       <Container>
         <Grid>
           <TopNav />
           <Switch>
-            <Route exact path="/">
-              <Home />
-            </Route>
             <Route path="/search">
               <Search />
             </Route>
